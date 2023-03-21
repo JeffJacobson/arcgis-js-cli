@@ -4,7 +4,7 @@ dist/*
 coverage/*
 .vscode/*
 yarn.lock
-package-lock.json
 .DS_Store
 ~redcup
 assets/
+.eslintcache
